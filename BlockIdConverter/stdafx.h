@@ -6,6 +6,11 @@
 #pragma once
 
 #include "targetver.h"
+#include <iostream>
+#include <fstream>
+#include <string>
 #include <vector>
+#include <string.h>
+
 
 // TODO: W tym miejscu odwołaj się do dodatkowych nagłówków wymaganych przez program
